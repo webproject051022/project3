@@ -1,0 +1,72 @@
+body{
+	padding: 0px;
+}
+div.menu{
+	width: auto;
+	height: 50px;
+	border: 1px solid black;
+	display: flex;
+	justify-content: space-around;
+}
+div.body{
+	width: auto;
+	margin: 0px 12.5%;
+	border: 1px solid black;
+	text-align: center;
+}
+div.footer{
+	clear: both;
+	width: auto;
+	height: 25px;
+	border: 1px solid black;
+}
+div.block{
+	clear: both;
+	width: auto;
+	border: 1px solid black;
+}
+div.inf{
+	width: auto;
+	border: 1px solid black;
+}
+div.otz{
+	float: left;
+	width: 23.5%;
+	margin: 5px;
+	border: 1px solid black;
+}
+img.otzimg{
+	width: 50%;
+}
+div.res{
+	clear: both;
+	width: auto;
+	border: 1px solid black;
+}
+div.arh{
+	width: auto;
+	border: 1px solid black;
+}
+div.achblock{
+	float: left;
+	width: 32%;
+	margin: 5px;
+	border: 1px solid black;
+}
+img.arhimg{
+	width: 100%;
+}
+div.arhpod{
+	clear: both;
+	border: 1px solid black;
+}
+div.regin{
+	float: left;
+	width: 49.5%;
+	border: 1px solid black;
+}
+div.loc-adr{
+	float: left;
+	width: 49.5%;
+	border: 1px solid black;
+}
