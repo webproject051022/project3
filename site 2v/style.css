@@ -1,0 +1,77 @@
+body{
+	padding: 0px;
+}
+div.menu{
+	width: auto;
+	height: 200px;
+	border: 1px solid white;
+	display: flex;
+	justify-content: space-around;
+}
+div.body{
+	width: auto;
+	margin: 0px 12.5%;
+	border: 1px solid white;
+	text-align: center;
+}
+div.footer{
+	clear: both;
+	width: auto;
+	height: 25px;
+	border: 1px solid white;
+}
+div.block{
+	clear: both;
+	width: auto;
+	border: 1px solid white;
+}
+div.inf{
+	width: auto;
+	border: 1px solid white;
+}
+div.otz{
+	float: left;
+	width: 23.5%;
+	margin: 5px;
+	border: 1px solid white;
+}
+img.otzimg{
+	width: 50%;
+}
+div.res{
+	clear: both;
+	width: auto;
+	border: 1px solid white;
+}
+div.arh{
+	width: auto;
+	border: 1px solid white;
+}
+div.achblock{
+	float: left;
+	width: 32%;
+	margin: 5px;
+	border: 1px solid white;
+}
+img.arhimg{
+	width: 100%;
+}
+div.arhpod{
+	clear: both;
+	border: 1px solid white;
+}
+div.regin{
+	float: left;
+	width: 49.5%;
+	border: 1px solid white;
+}
+div.loc-adr{
+	width: auto;
+	border: 1px solid white;
+}
+img.loc-img{
+	width: 50%;
+}
+img.she-img{
+	width: 50%;
+}
